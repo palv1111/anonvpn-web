@@ -4,5 +4,5 @@ compatibility_date = "2026-11-01"
 account_id = "93cc76c8e3e19e76ab3397746d04c73f"
 
 routes = [
-  { pattern = "anon.palv.org/*", zone_name = "palv.org" }
+  { pattern = "anon.palv.org", custom_domain = true }
 ]
